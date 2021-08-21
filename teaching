@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<body style="background-color:white;">
+<style>
+p {text-align: center;}
+    div {
+  margin-top: 100px;
+  margin-bottom: 50px;
+  margin-right: 250px;
+  margin-left: 250px;
+}
+
+  
+<!-- About Me Content -->
+  <!-- About Me Section -->
+  <div class="w3-container w3-content w3-center w3-padding-30" style="max-width:800px" id="band">
+    <style>
+    body {font-family: "Assistant:extra-light 200", sans-serif}
+    </style>
+    <p><font color="#000000"><p style="font-size:60px"><b>Teaching</b></font></p>
+   
+      <style>
+    body {font-family: "Assistant:semi-bold 600", sans-serif}
+    </style>
+    <p class="w3-center">
+    
+    University of Michigan, Ann Arbor
+    Fall 2021: Introduction to Cognitive Science (Graduate Student Instructor)
+    Winter 2021: Academic Writing and Inquiry (Solo Graduate Student Instructor)
+    Fall 2020: Epic Grammar Fails (Graduate Student Instructor)
+    
+    University of the West Indies, St. Augustine
+    Sept-Dec 2019: Structure and Usage of Caribbean Sign Language II (Lecturer)
+    </p>
+
+  </p>
+</div>
+<!-- End Page Content -->
+</div>
+
+</p>
+</style>
+</body>
+</html>
+
