@@ -1916,7 +1916,7 @@ input, select, textarea {
 		.button.primary {
 			background-color: #ffffff;
 			/*color: #312450 !important;*/
-			color: #4566b5 !important;
+			color: #424464 !important;
 		}
 
 			input[type="submit"].primary:after,
@@ -2358,7 +2358,7 @@ input, select, textarea {
 		select option {
 			color: #ffffff;
 			/*background: #312450;*/
-			background: #4566b5;
+			background: #424464;
 		}
 
 		select:focus::-ms-value {
@@ -2447,7 +2447,7 @@ input, select, textarea {
 			background: #ffffff;
 			border-color: #ffffff;
 			/*color: #b74e91;*/
-			color: #4566b5;
+			color: #424464;
 			content: '\f00c';
 		}
 
@@ -2529,7 +2529,7 @@ input, select, textarea {
 			background: #ffffff;
 			border-radius: 100%;
 			/*color: #312450;*/
-			color: #4566b5;
+			color: #424464;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -2541,32 +2541,32 @@ input, select, textarea {
 
 				.wrapper.style1 .icon.major:before {
 					/*color: #5e42a6;*/
-					color: #4566b5;
+					color: #424464;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
 					/*color: #493382;*/
-					color: #4566b5;
+					color: #424464;
 				}
 
 				.wrapper.style2 .icon.major:before {
 					/*color: #5052b5;*/
-					color: #4566b5;
+					color: #424464;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
 					/*color: #3e4094;*/
-					color: #4566b5;
+					color: #424464;
 					}
 
 				.wrapper.style3 .icon.major:before {
 					/*color: #b74e91;*/
-					color: #4566b5;
+					color: #424464;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
 					/*color: #953d75;*/
-					color: #4566b5;
+					color: #424464;
 				}
 
 /* Image */
